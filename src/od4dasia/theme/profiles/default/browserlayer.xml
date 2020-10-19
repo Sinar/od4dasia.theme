@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer
+      name="od4dasia.theme"
+      interface="od4dasia.theme.interfaces.IOd4DasiaThemeLayer"
+      />
+</layers>
